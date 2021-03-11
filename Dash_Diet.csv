@@ -1,0 +1,52 @@
+Food,Quantity,Units,Price,Date,Location,FDC Code
+Chicken breast,3,lb,$10.47,[2021-03-03 Wednesday],Safeway: 5100 Broadway,1098444
+"Chicken drumsticks, dark meat",2.5,lb,$7.48,[2021-03-03 Wednesday],Safeway: 5100 Broadway,172855
+Salmon,1,lb,$9.99,[2021-03-03 Wednesday],Safeway: 5100 Broadway,1266792
+Tuna Canned,12,oz,$4.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,1099042
+Tuna Ahi Steak,12,oz,$6.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,487435
+Ground Turkey,16,oz,$3.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,722258
+Lean Ground Beef,1.25,lb,$8.74,[2021-03-08 Sunday],Safeway: 5100 Broadway,449808
+Pork Top Loin,3,lb,$14.97,[2021-03-08 Sunday],Safeway: 5100 Broadway,168314
+Broccoli,1,lb,$2.19,[2021-03-03 Wednesday],Berkeley Bowl West,539572
+Carrots,1,lb,$1.49,[2021-03-03 Wednesday],Berkeley Bowl West,1103193
+Collards,1,lb,$2.09,[2021-03-03 Wednesday],Berkeley Bowl West,1103088
+Green Beans,1,lb,$2.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,1103337
+Green Peas,10,oz,$3.29,[2021-03-03 Wednesday],Berkeley Bowl West,714620
+Kale,7,oz,$2.49,[2021-03-03 Wednesday],Berkeley Bowl West,1445291
+Lima Beans,16,oz,$2.49,[2021-03-08 Sunday],Safeway: 5100 Broadway,174252
+Potatoes,1,lb,$1.89,[2021-03-03 Wednesday],Berkeley Bowl West,1192521
+Spinach,1,lb,$6.59,[2021-03-03 Wednesday],Berkeley Bowl West,1197933
+Squash,1,lb,$1.89,[2021-03-03 Wednesday],Berkeley Bowl West,1103228
+Sweet Potatoes,1,lb,$2.19,[2021-03-03 Wednesday],Berkeley Bowl West,535125
+Tomatoes,1,lb,$4.39,[2021-03-03 Wednesday],Berkeley Bowl West,1374160
+Apples,1,lb,$2.09,[2021-03-03 Wednesday],Berkeley Bowl West,577833
+Bananas,1,lb,$1.39,[2021-03-03 Wednesday],Berkeley Bowl West,1102653
+Oranges,1,lb,$1.59,[2021-03-03 Wednesday],Berkeley Bowl West,1102597
+Grapefruit,1,ct,$1.79,[2021-03-03 Wednesday],Berkeley Bowl West,1426835
+Mangos,12,oz,$1.25,[2021-03-08 Sunday],Safeway: 5100 Broadway,1259032
+Cantaloupe Melon,16,oz,$2.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,1102655
+Yellow Peach,5,oz,$2.62,[2021-03-08 Sunday],Safeway: 5100 Broadway,1102677
+Pineapples,1,ct,$5.49,[2021-03-03 Wednesday],Berkeley Bowl West,1192880
+Rasins,18,oz,$5.98,[2021-03-08 Sunday],Walmart,483303
+Strawberries,2,lb,$7.49,[2021-03-08 Sunday],Whole Foods: 3000 Telegraph Ave,1102710
+"Milk, Fat-free",0.5,gallon,$2.15,[2021-03-08 Sunday],Walmart,1197846
+"Yogurt, Fat-free ",5.3,oz,$1,[2021-03-08 Sunday],Walmart,1345761
+"Yogurt, Low-fat , Vanilla",32,oz,$1.74,[2021-03-08 Sunday],Walmart,639366
+Low-fat buttermilk,1,qt,$1.78,[2021-03-08 Sunday],Walmart,1097527
+Low-fat mozzarella cheese,8,oz,$1.98,[2021-03-08 Sunday],Walmart,167735
+Egg,18,ct,$3.06,[2021-03-08 Sunday],Walmart,747997
+"Almonds, Low Sodium Lightly Salted",30,oz,$11.68,[2021-03-08 Sunday],Walmart,1100510
+Unsalted Peanuts,16,oz,$1.98,[2021-03-08 Sunday],Walmart,1285048
+Walnuts,16,oz,$5.42,[2021-03-08 Sunday],Walmart,1226781
+Peanut butter,40,oz,$5.44,[2021-03-08 Sunday],Walmart,547673
+Kidney beans (Canned),15.5,oz,$0.48,[2021-03-08 Sunday],Walmart,1100398
+Lentils,16,oz,$0.98,[2021-03-08 Sunday],Walmart,656494
+Sweet peas,12,oz,$0.77,[2021-03-08 Sunday],Walmart,1192519
+Olive oil,17,oz,$3.94,[2021-03-08 Sunday],Walmart,1103861
+Low-fat mayonnaise,15,oz,$2.98,[2021-03-08 Sunday],Walmart,581172
+"Instant oatmeal, flavored",20,ct,$2.98,[2021-03-08 Sunday],Walmart,1101598
+Whole wheat bagel,20,oz,$3.24,[2021-03-08 Sunday],Walmart,1100766
+Romaine lettuce,16,oz,$2.69,[2021-03-08 Sunday],Safeway: 5100 Broadway,448838
+Mushrooms,8,oz,$2.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,1103362
+Corn (Canned),15.25,oz,$0.99,[2021-03-08 Sunday],Safeway: 5100 Broadway,1103505
+Corn,16,oz,$0.69,[2021-03-08 Sunday],Safeway: 5100 Broadway,1103351
